@@ -22,7 +22,7 @@ Additionally, a Streamlit-based web interface is provided for interactive transl
 ├── best_model.pt       # Saved model weights (generated after training)
 ├── requirements.txt    # Project dependencies
 └── README.md           # Project documentation (this file)
-
+```
 ## Installation
 
 1. **Clone the Repository:**
