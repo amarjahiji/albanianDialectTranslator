@@ -27,8 +27,8 @@ Additionally, a Streamlit-based web interface is provided for interactive transl
 
 1. **Clone the Repository:**
    ```bash
-   git clone <your-repo-url>
-   cd <repository-folder>
+   git clone https://github.com/amarjahiji/albanianDialectTranslator
+   cd albanianDialectTranslator
 
 2. **Create and activate a virtual environment:**
    ```bash
